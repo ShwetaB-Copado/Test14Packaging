@@ -69,6 +69,13 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
+        },
+        {
+            "path": "force-app",
+            "package": "Jan3_a",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "Test14Proj",
@@ -95,6 +102,7 @@
         "Nov28": "0Ho5i0000010wCJCAY",
         "Nov28@0.1.0-1-main": "04t5i0000011P9rAAE",
         "Jan2_a": "0Ho5i0000010wD7CAI",
-        "Jan2_a@0.0.0-1-main": "04t5i0000011PZ8AAM"
+        "Jan2_a@0.0.0-1-main": "04t5i0000011PZ8AAM",
+        "Jan3_a": "0Ho5i0000010wDCCAY"
     }
 }
