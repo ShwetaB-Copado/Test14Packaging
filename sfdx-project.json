@@ -75,7 +75,14 @@
             "package": "Jan3_a",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
-            "default": false
+            "default": false,
+            "dependencies": [
+                {
+                    "package": "0Ho5i0000010wD7CAI",
+                    "versionNumber": "0.0.0.1"
+                }
+                
+            ]
         }
     ],
     "name": "Test14Proj",
