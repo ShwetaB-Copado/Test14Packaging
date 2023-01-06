@@ -75,7 +75,15 @@
             "package": "Jan3_a",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
-            "default": false
+            "default": false,
+            "ancestorId": "SMBUnlocked",
+            "ancestorVersion": "1.0.0.0",
+            "definitionFile": "config/project-scratch-def.json",
+            "postInstallScript": "TestPostInstallScript_Managed",
+            "postInstallUrl": "https://copado.com/testInstall_Managed.html",
+            "releaseNotesUrl": "https://copado.com/testRelease_Managed.html",
+            "uninstallScript": "PreUninstallScript_Managed",
+            "versionDescription": "Test Jan3a Unlocked version"
         }
     ],
     "name": "Test14Proj",
